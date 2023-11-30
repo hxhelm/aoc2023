@@ -25,6 +25,3 @@ data
 
 # IDE
 .idea
-
-# Advent of Code CLI session file
-.adventofcode.session
